@@ -1,2 +1,1 @@
-VERSION 3
-Conflict 2
+Conflict resolved
